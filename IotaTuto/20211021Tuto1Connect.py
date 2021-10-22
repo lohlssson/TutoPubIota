@@ -1,4 +1,5 @@
 # Import neccessary modules
+#source code : https://legacy.docs.iota.org/docs/core/1.0/tutorials/js
 from iota import Iota
 from pprint import pprint
 
