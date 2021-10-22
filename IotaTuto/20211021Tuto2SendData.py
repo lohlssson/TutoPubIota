@@ -1,3 +1,4 @@
+#source code : https://legacy.docs.iota.org/docs/core/1.0/tutorials/js
 from iota import Iota, TryteString, Address, Tag, ProposedTransaction
 from pprint import pprint
 
