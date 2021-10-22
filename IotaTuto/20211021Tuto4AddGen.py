@@ -1,4 +1,4 @@
-
+#source code : https://legacy.docs.iota.org/docs/core/1.0/tutorials/js
 from iota import Iota
 seed = 'UJHKLSEITFEVEWCWBTSIZM9NKRGJEIMXTULBACGFRQK9IMGICLBKW9TTEVSDQMGWKBXPVCBMMCXWMNPDX'
 api = Iota('https://nodes.devnet.iota.org:443', seed, testnet = True)
