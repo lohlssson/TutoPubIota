@@ -1,4 +1,4 @@
-#source code : https://legacy.docs.iota.org/docs/core/1.0/tutorials/js
+#source code : https://legacy.docs.iota.org/docs/core/1.0/tutorials/python
 from iota import Iota
 from iota import ProposedTransaction
 from iota import Address
