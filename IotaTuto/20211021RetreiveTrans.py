@@ -1,3 +1,4 @@
+#source code : https://legacy.docs.iota.org/docs/core/1.0/tutorials/js
 from iota import Iota
 api = Iota('https://nodes.devnet.iota.org:443', testnet = True)
 tail_transaction_hash = 'HGJHUCFTFDFVRNFQWUGESLYNEZXDWPQUUQOAYZGPNPKKHVEKJAZJNSJEIWUMQRZIWDZDOZ9OJQSNNK999'
